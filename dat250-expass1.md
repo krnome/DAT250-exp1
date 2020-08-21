@@ -47,4 +47,4 @@ I next encountered a problem when using [add-ons to my Heroku application](https
 However, after returning to the log a few hours later, the log showed several succesful GET-queries, from my previous visits.
 ![Papertrail: GET-requests](img/heroku_papertrail_getRequests.PNG)
 
-I experienced no other problems, and my Heroku application is [deployed and available](https://calm-escarpment-03700.herokuapp.com/)
+I experienced no other problems, and my Heroku application is [deployed and available](https://calm-escarpment-03700.herokuapp.com/).
