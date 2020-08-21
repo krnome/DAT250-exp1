@@ -24,7 +24,7 @@ Both Git and Maven had worked in previous assignments during my Bachelor's degre
 ### Deploying to Heroku
 
 When doing the tutorial for deploying Java applications on the Heroku cloud platform, I did encounter a problem with maven being unable to locate the Java SDK, during the [step involving compiling and deployment](https://devcenter.heroku.com/articles/getting-started-with-java#deploy-the-app).
-![Maven can't find the SDK](img/heroku_noJDK.png)
+![Maven can't find the SDK](img/heroku_no_JDK.png)
 
 This is what led me to discover the missing references in my PATH-variables as described above - and I also had to add an environment variable JAVA_HOME pointing to the Java directory. After this, everything compiled and deployed fine.
 ![Deployment success](img/heroku_success.png)
