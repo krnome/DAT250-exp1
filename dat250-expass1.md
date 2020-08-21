@@ -48,3 +48,6 @@ However, after returning to the log a few hours later, the log showed several su
 ![Papertrail: GET-requests](img/heroku_papertrail_getRequests.PNG)
 
 I experienced no other problems, and my Heroku application is [deployed and available](https://calm-escarpment-03700.herokuapp.com/).
+
+---
+
